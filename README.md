@@ -1,2 +1,5 @@
 # SQL
-Sql Notes and Scripts
+
+This repo stores the following 
+ - Sql Notes
+ - Sample Scripts
